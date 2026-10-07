@@ -1,4 +1,14 @@
 # Trabalho Prático de Extração de Conhecimento de Dados Biológicos - 2023/2024  
+
+## Materiais do trabalho
+
+- [Código de análise em R](Code_PRAD.R).
+- [Relatório em R Markdown](Relat%C3%B3rio.rmd).
+- [Código de PCA](PCA%20codigo).
+
+Trabalho académico de grupo de 2023/2024. As fontes e os dados descritos abaixo
+documentam esse contexto; este repositório não constitui uma aplicação clínica.
+
 ## Elementos do Grupo 6:  
 
 - PG 52170 - Armindo
