@@ -1,4 +1,4 @@
-# Trabalho Prático de Extração de Conhecimento de Dados Biológicos - 2023/2024  
+# Exploração de dados biológicos
 
 Trabalho de grupo sobre exploração de dados de expressão génica e visualização em R, realizado na unidade curricular de Extração de Conhecimento de Dados Biológicos.
 
