@@ -34,7 +34,7 @@ para esta revisão da documentação.
 - PG 28935 - Diogo Esteves
 
 ## Objetivo:
-O trabalho tem como objetivo a análise do conjunto de dados obtidos a partir do cBioPortal, utilizando Python e software como o R com pacotes incorporados e outros disponíveis como o Bioconductor.
+O trabalho explora dados de expressão génica de cancro da próstata (TCGA-PRAD), com análise estatística e visualização em R. O script principal recolhe os dados no GDC; a ligação ao cBioPortal abaixo mantém a referência indicada no trabalho.
 
 ## Dados selecionados:
 [Prostate Adenocarcinoma (TCGA, PanCancer Atlas)](https://www.cbioportal.org/study/summary?id=prad_tcga_pan_can_atlas_2018)
