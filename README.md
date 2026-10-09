@@ -1,10 +1,14 @@
 # Trabalho Prático de Extração de Conhecimento de Dados Biológicos - 2023/2024  
 
+Trabalho de grupo sobre exploração de dados de expressão génica e visualização em R, realizado na unidade curricular de Extração de Conhecimento de Dados Biológicos.
+
 ## Materiais do trabalho
 
 - [Código de análise em R](Code_PRAD.R).
-- [Relatório em R Markdown](Relat%C3%B3rio.rmd).
+- [Relatório — fonte R Markdown](Relat%C3%B3rio.rmd).
 - [Código de PCA](PCA%20codigo).
+
+O relatório disponível é o ficheiro-fonte `.rmd`; não existe uma versão PDF ou HTML neste repositório. A sua geração exige o ambiente e os dados usados na análise.
 
 Trabalho académico de grupo de 2023/2024. As fontes e os dados descritos abaixo
 documentam esse contexto; este repositório não constitui uma aplicação clínica.
